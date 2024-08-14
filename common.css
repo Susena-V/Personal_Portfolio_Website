@@ -62,7 +62,7 @@ body {
 }
 
 .left:hover .overlay a {
-    color: #991188; /* New link color on hover */
+    color: #ff08de; /* New link color on hover */
     text-decoration: underline; /* Optional: add underline to links on hover */
 }
 
