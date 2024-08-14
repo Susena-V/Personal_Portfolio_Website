@@ -44,7 +44,7 @@ body {
     align-items: flex-start; /* Align content to the left */
     padding: 22px;
     box-sizing: border-box;
-    z-index: 2; /* Ensure it is above the background image */
+    z-index: 2; /* Ensure it is above the background  */
     overflow-y: auto; /* Enable vertical scrolling if content overflows */
     transition: background 0.3s;
 }
