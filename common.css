@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Bellefair'; 
+    font-family: 'Amiri'; 
     font-size: 20px;
     display: flex;
     height: 100vh;
@@ -196,8 +196,4 @@ ul li strong {
     margin-right: 5px; /* Space between logo and text */
 }
 
-.blog img {
-    width: auto;
-    height: auto;
-    display: inline-block;
-}
+
